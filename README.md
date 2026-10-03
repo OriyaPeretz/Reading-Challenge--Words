@@ -1,4 +1,3 @@
-# Reading-Challenge--Words
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
